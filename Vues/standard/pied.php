@@ -1,1 +1,1 @@
-<footer>Pied</footer>
+<footer>Titouan Reynaud 2021 ©</footer>

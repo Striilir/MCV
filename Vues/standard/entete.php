@@ -1,2 +1,2 @@
 <?php
- echo '<header> <h1>Titre</h1></header>';
+ echo '<header> <h1>Groupe de Travail</h1></header>';

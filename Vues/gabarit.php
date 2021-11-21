@@ -2,7 +2,9 @@
 <html lang="fr">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>My sweet MVC</title>
+
+
+        <title>Group Optimizer</title>
     </head>
     <body>
         <?php Vue::montrer('standard/entete'); ?>
