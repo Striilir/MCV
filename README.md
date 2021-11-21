@@ -1,9 +1,7 @@
-# My sweet MVC
-Découverte d'un MVC pas à pas avec PHP
+# Createur de groupes de travail
+Utilisation de modèle MVC et de PHP
 
- 1 - HelloWorld à la sauce MVC
- 
- 2 - Routage simple et Exceptions
- 
- 3 - Modèles et connexion BDD (coming soon...)
+1 - Utiliser le fichier Etudiants.csv présent dans le projet
+
+2 - Le projet n'est pas hébergé suite à des difficultés avec AlwaysData, je l'ai lancé en local en utilisant Wamp
  
